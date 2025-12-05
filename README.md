@@ -63,7 +63,7 @@ The machine learning models successfully predicted heart disease with high accur
 - **Report PDF:** `Heart disease prediction.pdf`
 
   📎 View the full project here:  
-[second project.ipynb]
+[second project.ipynb] 
 
 ## 👨‍💻 **Author**
 Naga Pranav Jayanty
