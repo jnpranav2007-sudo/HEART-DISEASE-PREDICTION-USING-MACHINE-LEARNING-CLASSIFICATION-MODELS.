@@ -58,6 +58,6 @@ The machine learning models successfully predicted heart disease with high accur
 ---
 
 ## 👨‍💻 **Author**
-Naga Pranav  
-Major Project – Heart Disease Prediction  
----
+Naga Pranav Jayanty
+B.Tech 1st Year | First Project
+💡 Passionate about AI, Machine Learning, and Technology Innovation
