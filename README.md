@@ -60,7 +60,11 @@ The machine learning models successfully predicted heart disease with high accur
 ## 🔗 Project Files
 
 - **Jupyter Notebook:** `Heart disease.ipynb`  
-- **Report PDF:** `Heart disease prediction using machine learning classification models.pdf`  
+- **Report PDF:** `Heart disease prediction.pdf`
+
+  📎 View the full project here:  
+[second project.ipynb]
+( https://github.com/jnpranav2007-sudo/Ad_Click_Prediction/blob/main/first_project.ipynb)
 
 ## 👨‍💻 **Author**
 Naga Pranav Jayanty
