@@ -64,7 +64,7 @@ The machine learning models successfully predicted heart disease with high accur
 
   📎 View the full project here:  
 [second project.ipynb]
-( https://github.com/jnpranav2007-sudo/Ad_Click_Prediction/blob/main/first_project.ipynb)
+( https://github.com/jnpranav2007-sudo/Heart disease/blob/main/first_project.ipynb)
 
 ## 👨‍💻 **Author**
 Naga Pranav Jayanty
