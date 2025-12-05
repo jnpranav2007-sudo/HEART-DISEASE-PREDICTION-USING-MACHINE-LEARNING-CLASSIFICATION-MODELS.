@@ -57,6 +57,15 @@ The ROC curve shows the trade-off between TPR and FPR.  **AUC Score: 0.89**, whi
 The machine learning models successfully predicted heart disease with high accuracy. The project proves that ML can help with early detection and improve healthcare decision-making.
 ---
 
+## 🔗 Project Files
+
+- **Jupyter Notebook:** `Heart disease.ipynb`  
+- **Report PDF:** `Heart disease prediction using machine learning classification models.pdf`  
+
+📎 View the full project here:  
+(https://github.com/jnpranav2007-sudo/Heart disease prediction using machine learning classification models/tree/main) 
+
+
 ## 👨‍💻 **Author**
 Naga Pranav Jayanty
 B.Tech 1st Year | First Project
